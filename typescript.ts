@@ -10,4 +10,4 @@ let boolean = true
 
 // boolean = 4
 
-let decimal: number = 6;
+let decimal: number = 6
