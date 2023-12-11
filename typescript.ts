@@ -4,10 +4,10 @@
 // const inputs = document.querySelectorAll('input')
 // console.log(inputs )
 
-let string = 'saman'
-let number = 30
-let boolean = true
+// let string = 'saman'
+// let number = 30
+// let boolean = true
 
-// boolean = 4
+// // boolean = 4
 
-let decimal: number = 6
+// let decimal: number = 6
