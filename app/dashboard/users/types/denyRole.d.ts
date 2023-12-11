@@ -1,0 +1,3 @@
+type DenyRole = {
+  role: string;
+};

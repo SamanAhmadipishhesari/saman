@@ -1,0 +1,3 @@
+type AddRole = {
+  name: string;
+};

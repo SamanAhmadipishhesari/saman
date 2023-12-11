@@ -1,0 +1,3 @@
+type DeleteRole = {
+  role: string;
+};
